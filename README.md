@@ -5,13 +5,13 @@ To this Project I bild a application “to Do List”, that have the following f
 - Tasks can be deleted.
 - Tasks can be edited (by double-clicking).
 - A button that displays a pop-up with completed tasks and deleted tasks.
- - As a bonus, a button where you can filter the tasks.
+- As a bonus, a button where you can filter the tasks.
 
 ## 💻 Technologies
 To do it, I used the technologies below 
 - Git/Github
 - JavaScript
--TypeScript
+- TypeScript
 - Angular
 
 
